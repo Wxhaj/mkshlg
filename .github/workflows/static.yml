@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Redirecting...</title>
+  <style>
+    body {
+      background: linear-gradient(to bottom, #6f42c1, #9d67e4);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+      font-family: "Sans Serif", sans-serif;
+      text-align: center;
+    }
+
+    h1 {
+      font-size: 40px;
+      font-weight: bold;
+      color: white;
+    }
+
+    p {
+      font-size: 24px;
+      color: white;
+      margin-top: 20px;
+    }
+  </style>
+  <script>
+    setTimeout(function() {
+      window.location.href = "https://www.roblox.com/games/13468049064/project-mks";
+    }, 3000);
+  </script>
+</head>
+<body>
+  <h1>Redirecting...</h1>
+  <p>This may take up to 5 seconds depending on your internet</p>
+</body>
+</html>
